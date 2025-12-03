@@ -1,0 +1,26 @@
+name,region,role,description,appears_in_courses
+The Colonel,Mirado,Military Commander,"Has spent decades—perhaps his entire adult life—laying siege to the Tower of Mirado. Was a boy when the siege started, now a grandfather.",ML Math with Densworld
+Fincho,Mirado,Lieutenant,"The Colonel's faithful second-in-command. Follows from loyalty that has become his life's anchor. Cannot last more than a week without searching when the Colonel wanders.",ML Math with Densworld
+The Boss,Yeller Quarry,Legendary Trapper,"Designed most of the traps still in use. Practical, ugly in her methods, but effective. Disappeared during the Redmane Expedition in March 1855.",Yeller Quarry Data Science
+Chief Archivist Mink,The Capital,Records Division Head,"Oversees apprentice archivists and the records division of the Capital Archives.",Yeller Quarry Data Science; Capital Archives NLP
+Grigsu Haldo,Multiple,Scholar-Wanderer,"Third-rate scholar and archivist who became obsessed with Yeller. Wandered from Dens to Dead River to the Quarry. Died changed—sullen and angry.",Capital Archives NLP
+Bagbu Olt,Multiple,Wandering Mapmaker,"Travels in a pickbox cart filled with papers, ideas, maps, and diagrams. Narrator of key stories. Always seeking something just over the next ridge.",Journeys and Graphs
+Vagabu Olt,Multiple,Mapmaker (alternate name),"Same figure as Bagbu Olt. Name varies in different sources.",Journeys and Graphs
+Yeller,Multiple,Mysterious Entity,"Sometimes described as a single creature, sometimes as five women who move together. Only one of Yeller's kind has been found anywhere.",Yeller Quarry Data Science
+Vornis Keth,The Dens,Geometer-Philosopher,"Author of treatises on spatial philosophy. Theorized about curved coordinates and boundary instability.",Spatial Series
+Archon Prebel,The Dens,Instrument-Free Observer,"Discovered that instrument-free observation produces stability. The Prebel Effect named after them.",Spatial Series
+Esseny Moll,The Dens,Plural Site Mapper,"Maps locations where multiple simultaneous observations contradict. Expert on spatial anomalies.",Spatial Series
+Moat Engineer Krehl,The Dens,Moat Engineer,"Testified before the Senate about boundary maintenance. Key figure in The Senator's Question.",Spatial Series
+Vivian Hammond,Mirado (Hilly Dale),Tutor,"Tutors children in ice-fishing puzzles. Key figure in the puzzle courses. Subject of the 'Vivian Effect'.",Puzzle Series
+Little Porn,Mirado (Hilly Dale),Language Inventor,"Created the LPN language system. Child prodigy turned inventor of formal notation.",Puzzle Series
+Quonxy,Mirado (Hilly Dale),Rival Inventor,"Created CSQ notation system as rival to LPN. Also tutors in Hilly Dale.",Puzzle Series
+Senior Keeper Mivros,The Capital,Oracle Keeper,"Oversees the Densworld Oracle system. Guides students in the Oracle course.",HF Series: Densworld Oracle
+Forgemaster Krenn,Yeller Quarry,Model Trainer,"Expert in fine-tuning language models. Key figure in the Forge at Yeller Quarry.",HF Series: Forge at Yeller Quarry
+Master Cartographer Olis,The Capital,Expedition Cartographer,"Creates semantic maps. Key figure in the Expedition Cartographer's Workshop.",HF Series: Cartographer's Workshop
+Senior Inference Clerk Morwen,The Capital,Inference Specialist,"Processes disputed folios for authenticity. Key figure in the Archivist's Inference Engine.",HF Series: Archivist's Inference Engine
+Chief Engineer Vastos,Mirado,Space Builder,"Deploys interfaces to Hugging Face Spaces. Key figure in Space Builders of Mirado.",HF Series: Space Builders
+Elder Nomis,Multiple,Model Evaluator,"Evaluates and adapts to new models. Key figure in the Wanderer's Experiments.",HF Series: Wanderer's Experiments
+Archivist Questioner Dren,The Capital,Data Extractor,"Extracts datasets from messy archives. Key figure in Noise and Signal.",HF Series: Noise and Signal
+Jackson,Densmok,Missing Student,"Disappeared from Klutch Community College. Central mystery of the Densmok CC course.",Densmok CC Analytics
+Kitchum,Densmok,Behavioral Subject,"Student with suspicious behavioral patterns. Key investigation target in Densmok CC.",Densmok CC Analytics
+Thurmond Gast,The Dens,Naive Observer,"Protagonist of the 'naive observer' arc. Arrives at the Dens boundary without preconceptions.",Spatial Series

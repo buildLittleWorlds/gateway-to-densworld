@@ -1,0 +1,12 @@
+name,description,direction,theme,danger_level,key_character,courses
+The Capital,"Center of civilization. Home to the Archives, Senate, and scholars who maintain the world's knowledge.",center,knowledge,1,Chief Archivist Mink,Capital Archives NLP
+Yeller Quarry,"Dangerous extraction zone of tunnels, marshes, and caves. Trapping crews capture creatures for Capital merchants.",center,danger,9,The Boss,Yeller Quarry Data Science
+The Dens,"Place of sludge and mystery. The oldest thing in Densworld, where boundaries shift and dissolution threatens.",west,dissolution,8,Moat Engineer Krehl,Spatial Series
+Tower of Mirado,"Legendary stone tower rising from desert sands. Under siege for generations by The Colonel.",south,pursuit,7,The Colonel,ML Math with Densworld
+Mirado Sticks,"Settlement in the tower's shadow. Ordinary life against an extraordinary backdrop.",south,ordinary life,3,Mirado (the gardener),Future courses
+Northo,"Religious heartland. Churches, prayer, faith—and doubt. Ascetics withdraw to isolated villages.",north,negation,4,The Wanderers,Future courses
+North Town,"Border region between Northo and Yeller Quarry. A place of warnings and secrets.",north,warning,5,Unknown,Future courses
+Dead River,"A place that may not exist. Named on maps, absent on the ground. Structure without substance.",center,emptiness,6,Bagbu Olt,Dead River Synthetic Data
+Capeast,"East of the Capital. Festivals, prayers, and economic experiments with experience futures.",east,economy,2,Unknown,Future courses
+Heeshok,"Northern town mentioned in connection with the north roads and the Capital's reach.",north,trade,3,Unknown,Future courses
+Densmok,"Suburban coders' enclave. Home to Klutch Community College.",center,suburbia,2,Jackson,Densmok CC Analytics
