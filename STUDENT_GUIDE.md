@@ -221,6 +221,104 @@ Once you complete Gateway, you're ready for any Densworld course. Here's a guide
 
 ---
 
+## Recommended Learning Paths
+
+*The archivists have identified five progressions through the course ecosystem. Each path builds skills in a particular direction. Choose based on where you want to go.*
+
+### Path 1: Data Science Fundamentals
+
+**Gateway → Yeller Quarry → Journeys and Graphs → Dead River Lab**
+
+*For students who want to build strong foundations in data manipulation, analysis, and eventually data generation.*
+
+You'll develop:
+- Deep pandas proficiency (filtering, grouping, merging, aggregation)
+- Graph theory and network analysis skills
+- Understanding of how structured data emerges from narrative
+- The ability to design and build your own synthetic datasets
+
+**Best for**: Students who want to become fluent in data wrangling before moving to ML. Also ideal for those interested in data engineering or analytics roles.
+
+---
+
+### Path 2: NLP and Language
+
+**Gateway → Capital Archives → Puzzle Series (02) → HF Series (01-02)**
+
+*For students fascinated by text, language, and meaning.*
+
+You'll develop:
+- Natural language processing fundamentals (tokenization, TF-IDF, sentiment)
+- Understanding of formal grammars and constructed languages
+- Transformer-based NLP (Hugging Face pipelines, embeddings)
+- Semantic search and text analysis at scale
+
+**Best for**: Students interested in computational linguistics, NLP engineering, or anyone who finds the Archive's manuscripts more compelling than its numbers.
+
+---
+
+### Path 3: Philosophy of Measurement
+
+**Gateway → Spatial Series (01-05) → Philosophy of Pattern Series**
+
+*For students drawn to the deep questions: What can be measured? What does measurement change? How do we know what we know?*
+
+You'll develop:
+- Time series analysis and hypothesis testing
+- Understanding of coordinate systems and observer effects
+- Classification theory and the ethics of taxonomy
+- Advanced ML concepts through philosophical frameworks (latent spaces, multi-agent systems, anomaly detection)
+
+**Best for**: Students who think deeply about methodology, epistemology, or the philosophy of science. Also for those who want to understand *why* ML techniques work, not just *how*.
+
+---
+
+### Path 4: AI/ML Practitioner
+
+**Gateway → Yeller Quarry → HF Series (complete) → Access Architectures**
+
+*For students who want to build production AI systems.*
+
+You'll develop:
+- Solid data foundations (pandas, data cleaning, EDA)
+- Modern ML stack (transformers, embeddings, fine-tuning, RAG)
+- Model deployment and API design
+- Understanding of access design, governance, and platform architecture
+
+**Best for**: Students aiming for ML engineering roles, or anyone who wants to build end-to-end AI applications that real users can interact with.
+
+---
+
+### Path 5: World Builder
+
+**Gateway → Access Architectures (complete) → Dead River Lab → Living World Capstone**
+
+*For students who want to create fictional worlds and the systems that make them explorable.*
+
+You'll develop:
+- Access architecture design (conversational AI, APIs, generators)
+- Synthetic data generation from narrative
+- Platform integration and deployment
+- Teaching methodology for worldbuilding (10-week syllabus)
+
+**Best for**: Game designers, fiction writers building explorable worlds, educators designing creative curricula, or anyone who wants to build something like Densworld for their own universe.
+
+---
+
+### Choosing Your Path
+
+| Path | First Milestone | Final Skill |
+|------|-----------------|-------------|
+| Data Science Fundamentals | Investigate missing children (Yeller Quarry capstone) | Design your own synthetic dataset |
+| NLP and Language | Detect manuscript forgeries (Capital capstone) | Build semantic search systems |
+| Philosophy of Measurement | Test Keth's boundary predictions (Spatial capstone) | Map ML to philosophical frameworks |
+| AI/ML Practitioner | Fine-tune a language model (HF Course 4) | Deploy an integrated AI platform |
+| World Builder | Design an Oracle system (Access Course 1) | Teach worldbuilding to others |
+
+*You don't have to commit to a single path. Many students complete Path 1, then branch into either Path 3 or Path 4. The courses are designed to interconnect—characters, datasets, and patterns recur across the ecosystem.*
+
+---
+
 ## The Course Series
 
 Gateway to Densworld is part of a larger ecosystem:
