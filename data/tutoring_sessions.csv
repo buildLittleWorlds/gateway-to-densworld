@@ -1,0 +1,51 @@
+session_id,tutor,student_name,student_age_category,subject,duration_minutes,puzzle_used,puzzle_type,outcome,vivian_sleeping,notes
+SES_001,Quonxy,Little_Porn,child,pattern_recognition,72,True,ballerinas,breakthrough,False,Student worked on naming pieces
+SES_002,Vivian,Gregory,child,general,58,True,ice_fishing,progress,False,
+SES_003,Quonxy,Simon,child,puzzle_language,56,False,,stuck,False,Mentioned Little Porn's system
+SES_004,Quonxy,Simon,child,addiction,52,True,ice_fishing,stuck,False,
+SES_005,Quonxy,Cassie,teenager,addiction,83,True,ballerinas,breakthrough,False,
+SES_006,Vivian,Cassie,teenager,algebra,62,False,,progress,False,
+SES_007,Vivian,Cassie,teenager,algebra,71,True,other,progress,False,Tent mentioned by student
+SES_008,Vivian,Cassie,teenager,algebra,70,False,,stuck,False,
+SES_009,Quonxy,Bill,adult,addiction,89,False,,breakthrough,False,
+SES_010,Vivian,Bruce,adult,speech,44,True,other,progress,True,Left puzzle on table as test
+SES_011,Vivian,Cassie,teenager,algebra,83,True,pirate,stuck,False,
+SES_012,Quonxy,Little_Porn,child,addiction,54,True,pirate,progress,False,
+SES_013,Vivian,Gregory,child,general,56,True,ballerinas,stuck,False,
+SES_014,Vivian,Rachel,teenager,general,46,True,ballerinas,progress,False,
+SES_015,Quonxy,Bill,adult,addiction,46,False,,breakthrough,False,
+SES_016,Quonxy,Gregory,child,addiction,45,False,,progress,False,Mentioned Little Porn's system
+SES_017,Vivian,Bruce,adult,speech,51,True,ballerinas,stuck,False,
+SES_018,Vivian,Bruce,adult,speech,40,False,,completed_task,False,
+SES_019,Quonxy,Gregory,child,general,88,True,ice_fishing,abandoned,False,Compared to Tractatus approach
+SES_020,Quonxy,Gregory,child,addiction,50,True,other,progress,False,
+SES_021,Vivian,Gregory,child,general,59,True,pirate,stuck,True,
+SES_022,Quonxy,Gregory,child,addiction,62,False,,progress,False,Student worked on naming pieces
+SES_023,Quonxy,Bill,adult,addiction,63,False,,progress,False,
+SES_024,Quonxy,Pastor_Hitch,adult,addiction,74,True,ice_fishing,completed_task,False,
+SES_025,Quonxy,Cassie,teenager,addiction,46,True,ice_fishing,breakthrough,False,Discussed addiction patterns
+SES_026,Quonxy,Pastor_Hitch,adult,addiction,55,True,ballerinas,breakthrough,False,
+SES_027,Quonxy,Cassie,teenager,algebra,34,True,other,progress,False,
+SES_029,Quonxy,Gregory,child,addiction,86,False,,breakthrough,False,Student worked on naming pieces
+SES_030,Vivian,Bruce,adult,speech,69,False,,progress,False,
+SES_031,Quonxy,Cassie,teenager,algebra,89,True,ice_fishing,progress,False,
+SES_032,Quonxy,Bill,adult,addiction,66,False,,progress,False,Student worked on naming pieces
+SES_033,Quonxy,Cassie,teenager,addiction,75,False,,completed_task,False,Discussed addiction patterns
+SES_034,Quonxy,Simon,child,puzzle_language,74,True,pirate,abandoned,False,
+SES_035,Quonxy,Simon,child,addiction,32,False,,progress,False,
+SES_036,Vivian,Bruce,adult,speech,85,False,,progress,False,
+SES_037,Quonxy,Gregory,child,general,80,True,other,progress,False,
+SES_038,Vivian,Gregory,child,general,66,True,other,progress,False,
+SES_041,Vivian,Cassie,teenager,algebra,76,False,,progress,True,Student found notebooks
+SES_042,Quonxy,Bill,adult,addiction,35,False,,stuck,False,
+SES_043,Vivian,Cassie,teenager,algebra,78,True,ballerinas,progress,False,
+SES_044,Quonxy,Pastor_Hitch,adult,addiction,54,False,,progress,False,Discussed addiction patterns
+SES_046,Quonxy,Little_Porn,child,addiction,42,False,,progress,False,Student worked on naming pieces
+SES_048,Quonxy,Bill,adult,addiction,68,True,pirate,progress,False,Mentioned Little Porn's system
+SES_049,Vivian,Little_Porn,child,pattern_recognition,42,True,other,completed_task,False,Left puzzle on table as test
+SES_051,Vivian,Pastor_Hitch,adult,addiction,49,True,ballerinas,stuck,False,
+SES_056,Vivian,Pastor_Hitch,adult,addiction,82,True,other,progress,False,
+SES_057,Quonxy,Gregory,child,general,90,True,ballerinas,completed_task,False,Student worked on naming pieces
+SES_058,Vivian,Pastor_Hitch,adult,addiction,77,True,ballerinas,progress,False,
+SES_059,Vivian,Pastor_Hitch,adult,addiction,54,True,other,completed_task,False,Student found notebooks
+SES_060,Vivian,Pastor_Hitch,adult,addiction,56,True,ice_fishing,stuck,False,
