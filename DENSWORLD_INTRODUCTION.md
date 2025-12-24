@@ -172,7 +172,7 @@ The Colonel's faithful second-in-command. He follows the Colonel not from ambiti
 
 ### The Boss
 
-A legendary trapper from Yeller Quarry who designed most of the traps still in use. She was practical, ugly in her methods, but effective. She disappeared during the Redmane Expedition in March 1855. Her body was never recovered.
+A legendary trapper from Yeller Quarry who designed most of the traps still in use. She was practical, ugly in her methods, but effective. She disappeared during the Redmane Expedition in March 855. Her body was never recovered.
 
 ### Grigsu Haldo
 

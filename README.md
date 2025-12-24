@@ -27,6 +27,7 @@ Each tutorial teaches a technical skill BY exploring a region of the world. You 
 | 8 | The Edges | Merging, NaN | Northo, Dead River | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/gateway-to-densworld/blob/main/notebooks/tutorial_08_edges_and_merging.ipynb) |
 | 9 | Visualization | matplotlib | Cartography | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/gateway-to-densworld/blob/main/notebooks/tutorial_09_visualization.ipynb) |
 | 10 | Three Directions | Capstone | Cosmology | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/gateway-to-densworld/blob/main/notebooks/tutorial_10_three_directions.ipynb) |
+| 11 | The Living Ledger | Event queries | Causation, history | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/gateway-to-densworld/blob/main/notebooks/tutorial_11_event_log.ipynb) |
 
 ---
 

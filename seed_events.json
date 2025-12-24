@@ -1,0 +1,106 @@
+[
+  {
+    "event_id": "EV-0700-001",
+    "type": "archive_accession",
+    "date": "700-01-15",
+    "location": "capital.archives",
+    "actors": ["chief_archivist_mink"],
+    "details": {
+      "description": "Capital Archives formally established as central repository",
+      "significance": "Founding of the primary knowledge institution in Densworld",
+      "collection_scope": "manuscripts, expedition reports, creature catalogs, scholarly debates"
+    },
+    "source": "gateway",
+    "notes": "The Archives become the center of civilization's accumulated knowledge. Tutorial 2 establishes the Capital as where 'everything flows through.'"
+  },
+  {
+    "event_id": "EV-0820-001",
+    "type": "expedition_launch",
+    "date": "820-03-01",
+    "location": "mirado_sticks",
+    "actors": ["the_colonel"],
+    "details": {
+      "expedition_name": "Siege of Mirado",
+      "expedition_type": "military_siege",
+      "target": "tower_of_mirado",
+      "status": "ongoing",
+      "duration_projected": "indefinite"
+    },
+    "source": "gateway",
+    "notes": "The Colonel begins the siege as a young man. Tutorial 5 references 'Year 20 of the siege' in his journal and states 'I was a boy when this began. Now I am a grandfather.' The siege represents pursuit and interminable striving."
+  },
+  {
+    "event_id": "EV-0835-001",
+    "type": "crew_formed",
+    "date": "835-06-10",
+    "location": "yeller_quarry",
+    "actors": ["the_boss"],
+    "details": {
+      "crew_name": "Boss's Trapping Crew",
+      "specialization": "creature_capture",
+      "trap_designs": "standardized",
+      "significance": "The Boss designs most traps still in use"
+    },
+    "source": "gateway",
+    "notes": "The Boss becomes the legendary trapper whose methods define Yeller Quarry operations. 'She designed most of the traps still in use.'"
+  },
+  {
+    "event_id": "EV-0855-001",
+    "type": "expedition_launch",
+    "date": "855-03-01",
+    "location": "yeller_quarry",
+    "actors": ["the_boss"],
+    "details": {
+      "expedition_name": "Redmane Expedition",
+      "expedition_type": "creature_survey",
+      "outcome": "disaster"
+    },
+    "source": "gateway",
+    "notes": "The Boss's final expedition. Tutorial 3 mentions 'She disappeared during the Redmane Expedition.'"
+  },
+  {
+    "event_id": "EV-0855-002",
+    "type": "disappearance",
+    "date": "855-03-15",
+    "location": "yeller_quarry.deep_tunnels",
+    "actors": ["the_boss"],
+    "details": {
+      "circumstances": "Redmane Expedition disaster",
+      "body_recovered": false,
+      "last_known_activity": "creature trapping",
+      "legacy": "trap designs still in use"
+    },
+    "source": "gateway",
+    "notes": "The Boss's disappearance becomes legend. 'Her body was never recovered.' This establishes Yeller Quarry's danger and the stakes of creature work."
+  },
+  {
+    "event_id": "EV-0880-001",
+    "type": "manuscript_written",
+    "date": "880-08-20",
+    "location": "dead_river",
+    "actors": ["bagbu_olt"],
+    "details": {
+      "title": "The Road's Four Feet",
+      "genre": "travel_philosophy",
+      "content": "Meditations on wandering and cartography",
+      "quote": "The road itself whispers nothing but what's nearest along it. The road is its own four feet at a time."
+    },
+    "source": "gateway",
+    "notes": "Bagbu Olt's wandering philosophy, quoted in Tutorial 10. He is 'a wandering mapmaker and sketch-artist who travels in a pickbox cart.'"
+  },
+  {
+    "event_id": "EV-0890-001",
+    "type": "discovery",
+    "date": "890-04-12",
+    "location": "yeller_quarry",
+    "actors": [],
+    "details": {
+      "phenomenon": "yeller_numbers",
+      "pattern": "creatures move in groups of primes: 2, 3, 5, 7, 11",
+      "significance": "fundamental mystery of Densworld",
+      "deaths_attributed": "multiple trappers"
+    },
+    "source": "gateway",
+    "notes": "Tutorial 3 establishes the yeller numbers: 'Creatures move in groups of prime numbers: 2, 3, 5, 7, 11. If you see one Maw Beast, there may be two more nearby. The yeller numbers have gotten trappers killed.'"
+  }
+]
