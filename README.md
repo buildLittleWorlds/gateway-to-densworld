@@ -1,6 +1,8 @@
 # Gateway to Densworld
 ## Learning Colab Through Fiction
 
+![Gateway to Densworld](images/hero.png)
+
 ---
 
 Welcome to Densworld—a collection of data science and machine learning courses built on a 70,000-line fictional universe.
